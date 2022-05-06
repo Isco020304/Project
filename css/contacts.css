@@ -1,0 +1,42 @@
+
+
+/*section contacts */
+
+.p{
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+/* Accent */
+
+color: #F7654A;
+
+
+}
+.p_2{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* gray */
+
+color: #999999;
+
+}
+.p_3{
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+/* Accent */
+
+color: #F7654A;
+    margin-bottom: 150px;
+}
