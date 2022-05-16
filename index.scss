@@ -1,1 +1,14 @@
-@import"./assests/products"
+@import"./assests/products";
+
+.products {
+    &__swiper {
+        height: 620px;
+    }
+    &__title {
+
+    }
+    &__info {
+        &--decription {
+        }
+    }
+}
